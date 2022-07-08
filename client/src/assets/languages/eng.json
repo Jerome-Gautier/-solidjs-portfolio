@@ -1,0 +1,35 @@
+{
+    "navbar": {
+        "li1": "Home",
+        "li2": "My Skills",
+        "li3": "My Portfolio",
+        "li4": "Contact"
+    },
+    "profile-main": {
+        "h2": "Hello, my name is",
+        "p1": "I'm a full-stack junior developper competent in both frontend and backend.",
+        "p2": "I worked on a wide variety of small scale projects and i am now looking for opportunities to work on professional projects to test and expand my skills."
+    },
+    "services": {
+        "main-title": "What can i do ?",
+        "description": "The online certifications i passed made me competent with a wide variety of Javascript tools, but i'm also working on personnal projects on my free time to further develop my skills and knowledge.",
+        "section1-title": "Web Development",
+        "section2-title": "Databases",
+        "section3-title": "Others"
+    },
+    "projects": {
+        "title": "Certifications Projects"
+    },
+    "contact": {
+        "title": "Contact",
+        "p1": "I'm interested in every opportunity, wether it's a small scale project or a more ambitious one necessiting working in a team, don't hesitate to contact me via Email or with the form on this page.",
+        "input1": "Name",
+        "input2": "Email Address",
+        "input3": "Subject",
+        "input4": "Message",
+        "submit-btn": "Submit"
+    },
+    "footer": {
+        "p1": "Made by Jérôme Gautier with SolidJs"
+    }
+}

@@ -1,0 +1,19 @@
+.header-outer-container {
+    position: absolute;
+    width: 100%;
+    background-color: #142d4c;
+    transition: all 1.5s ease-in-out;
+    z-index: 1000;
+}
+
+.header-outer-container.fixed{
+    position: fixed;
+}
+
+.header-outer-container.mobile {
+    position: absolute;
+    width: 100%;
+    background-color: none;
+    transition: all 1.5s ease-in-out;
+    z-index: 1000;
+}

@@ -1,0 +1,73 @@
+.header-fullview-container {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    max-width: 1200px;
+    height: 40px;
+    margin: auto;
+}
+
+.header-fullview-container .socials {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    min-width: 200px;
+}
+
+.header-fullview-container .socials li {
+    height: 100%;
+}
+
+.header-fullview-container .socials li a {
+    height: 100%;
+    display: flex;
+    align-items: center;
+
+}
+
+.header-fullview-container .socials svg {
+    transition: all 0.5s ease-in-out;
+}
+
+.header-fullview-container .socials svg:hover {
+    background-color: #fff;
+    fill: #142d4c;
+}
+
+.header-fullview-container .menu-container {
+    width: 40%;
+    min-width: 480px;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+}
+
+.header-fullview-container .menu-container .navbar {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+    height: 100%;
+    color: #fff;
+    margin-right: 50px;
+}
+
+.header-fullview-container .menu-container .navbar .menu-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    min-width: 130px;
+    transition: all 0.5s ease-in-out;
+    cursor: pointer;
+}
+
+.header-fullview-container .menu-container button {
+    position: absolute;
+    right: 0;
+}
+
+.header-fullview-container .menu-container .navbar .menu-btn:hover {
+    background-color: #fff;
+    color: #142d4c;
+}

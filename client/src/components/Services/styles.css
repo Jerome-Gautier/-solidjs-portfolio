@@ -1,0 +1,92 @@
+.services-outer-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.services-inner-container {
+    width: 100%;
+}
+
+.services-inner-container .section-title {
+    text-align: center;
+}
+
+.services-inner-container .section-title h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: #222222;
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.services-inner-container .section-title div {
+    font-family: 'Droid serif', sans-serif;
+    max-width: 800px;
+    color: #777777;
+    text-align: center;
+    margin: auto;
+    font-style: italic;
+    font-size: 16px;
+}
+
+.services-inner-container .services-boxs {
+    display: flex;
+    width: 100%;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    margin-top: 80px;
+    padding: 0 10px;
+}
+
+.services-inner-container .services-boxs .serv {
+    text-align: center;
+    width: 250px;
+    height: 370px;
+    padding: 10px;
+    margin: 15px;
+    border: solid #777777 1px;
+    border-radius: 5px;
+}
+
+.services-inner-container .services-boxs .serv .skills {
+    text-align: left;
+}
+
+.services-inner-container .services-boxs .serv .serv-title-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fed136;
+    border: 3px solid #fed136;
+    border-radius: 50px;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    margin: auto;
+}
+
+.services-inner-container .services-boxs .serv h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    margin: 15px 0;
+    color: #000000;
+}
+
+.services-inner-container .services-boxs .serv .skills li {
+    display: flex;
+    font-family: 'Roboto Slab', sans-serif;
+    font-size: 14px;
+    margin: 10px 0;
+    color: #777777;
+}
+
+.services-inner-container .services-boxs .serv .skills svg {
+    height: 100%;
+    margin: auto 5px auto 0;
+}

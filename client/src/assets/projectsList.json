@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Data Visualization with a Treemap Diagram(FCC)",
+        "img": "https://shots.codepen.io/GautierJerome/pen/JjNMwoZ-512.webp?version=1627652785",
+        "url": "https://codepen.io/GautierJerome/pen/JjNMwoZ",
+        "tags": ["Html", "Css", "D3"]
+    },
+    {
+        "title": "Visualize data with a Chloropleth Map(FCC)",
+        "img": "https://shots.codepen.io/GautierJerome/pen/QWvayaM-512.webp?version=1627556501",
+        "url": "https://codepen.io/GautierJerome/pen/QWvayaM",
+        "tags": ["Html", "Css", "D3"]
+    },
+    {
+        "title": "Data Visualization with a Heat Map(FCC)",
+        "img": "https://shots.codepen.io/GautierJerome/pen/MWmvBpO-512.webp?version=1627121079",
+        "url": "https://codepen.io/GautierJerome/pen/MWmvBpO",
+        "tags": ["Html", "Css", "D3"]
+    },
+    {
+        "title": "D3 Scatter Plot(FCC)",
+        "img": "https://shots.codepen.io/GautierJerome/pen/zYwdwmE-512.webp?version=1626914837",
+        "url": "https://codepen.io/GautierJerome/pen/zYwdwmE",
+        "tags": ["Html", "Css", "D3"]
+    },
+    {
+        "title": "D3 Bar Chart(FCC)",
+        "img": "https://shots.codepen.io/GautierJerome/pen/jOmBzgo-512.webp?version=1626796472",
+        "url": "https://codepen.io/GautierJerome/pen/jOmBzgo",
+        "tags": ["Html", "Css", "D3"]
+    },
+    {
+        "title": "25+5 clock(FCC)",
+        "img": "https://shots.codepen.io/GautierJerome/pen/mdmJRwO-512.webp?version=1626790239",
+        "url": "https://codepen.io/GautierJerome/pen/mdmJRwO",
+        "tags": ["Html", "Css", "React"]
+    },
+    {
+        "title": "Calculator(FCC)",
+        "img": "https://shots.codepen.io/GautierJerome/pen/LYWKLQB-512.webp?version=1629546405",
+        "url": "https://codepen.io/GautierJerome/pen/LYWKLQB",
+        "tags": ["Html", "Css", "Javascript"]
+    },
+    {
+        "title": "Drum Machine(FCC)",
+        "img": "https://shots.codepen.io/GautierJerome/pen/poeGeMy-512.webp?version=1643386082",
+        "url": "https://codepen.io/GautierJerome/pen/poeGeMy",
+        "tags": ["Html", "Css", "React"]
+    },
+    {
+        "title": "Markdown Previewer(FCC)",
+        "img": "https://shots.codepen.io/GautierJerome/pen/JjWLdXM-512.webp?version=1626790305",
+        "url": "https://codepen.io/GautierJerome/pen/JjWLdXM",
+        "tags": ["Html", "Css", "React"]
+    },
+    {
+        "title": "Random quote machine(FCC)",
+        "img": "https://shots.codepen.io/GautierJerome/pen/abBBGrj-512.webp?version=1643423755",
+        "url": "https://codepen.io/GautierJerome/pen/abBBGrj",
+        "tags": ["Html", "Css", "Javascript"]
+    },
+    {
+        "title": "Portfolio",
+        "img": "https://shots.codepen.io/GautierJerome/pen/OJRNdEb-512.webp?version=1643375209",
+        "url": "https://codepen.io/GautierJerome/pen/OJRNdEb",
+        "tags": ["Html", "Css", "Javascript"]
+    },
+    {
+        "title": "Technical documentation",
+        "img": "https://shots.codepen.io/GautierJerome/pen/PoGZvrJ-512.webp?version=1643904334",
+        "url": "https://codepen.io/GautierJerome/pen/PoGZvrJ",
+        "tags": ["Html", "Css", "Javascript"]
+    },
+    {
+        "title": "Product landing page",
+        "img": "https://shots.codepen.io/GautierJerome/pen/ZEpQyaG-512.webp?version=1642697535",
+        "url": "https://codepen.io/GautierJerome/pen/ZEpQyaG",
+        "tags": ["Html", "Css", "Javascript"]
+    },
+    {
+        "title": "Survey Test",
+        "img": "https://shots.codepen.io/GautierJerome/pen/qBaOPdW-512.webp?version=1642855501",
+        "url": "https://codepen.io/GautierJerome/pen/qBaOPdW",
+        "tags": ["Html", "Css"]
+    },
+    {
+        "title": "Tribute page Marcus Aurelius",
+        "img": "https://shots.codepen.io/GautierJerome/pen/YzGXoqa-512.webp?version=1644065467",
+        "url": "https://codepen.io/GautierJerome/pen/YzGXoqa",
+        "tags": ["Html", "Css", "Javascript"]
+    }
+]

@@ -1,0 +1,12 @@
+.footer-outer-container {
+    text-align: center;
+    background-color: black;
+    color: #fff;
+}
+
+.footer-inner-container {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,68 @@
+.contact-outer-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%;
+    background-color: #1d1d1d;
+}
+
+.contact-inner-container {
+    display: flex;
+    flex-flow: row nowrap;
+    max-width: 1000px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 0 10px;
+}
+
+.contact-inner-container .header-container {
+    padding: 25px;
+}
+
+.contact-inner-container .header-container h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: #222222;
+    text-align: center;
+    font-weight: 700;
+    font-size: 48px;
+}
+
+.contact-inner-container .header-container .email-container {
+    display: flex;
+    flex-flow: row nowrap;
+    margin: 10px 0;
+}
+
+.contact-inner-container .contact-form {
+    min-width: 390px;
+    height: 100%;
+    margin:auto;
+    padding: 25px;
+    padding-bottom: 50px;
+}
+
+.contact-inner-container .contact-form .input-container {
+    margin: 10px 2px;
+}
+
+.contact-inner-container .contact-form .first-div {
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+.contact-inner-container .contact-form .submit-btn {
+    position: absolute;
+    float: right;
+}
+
+@media (max-width: 720px) {
+    .contact-inner-container {
+        flex-flow: column nowrap;
+    }
+
+    .contact-inner-container .contact-form .first-div {
+        flex-flow: column nowrap;
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "navbar": {
+        "li1": "Home",
+        "li2": "Compétences",
+        "li3": "Portfolio",
+        "li4": "Contact"
+    },
+    "profile-main": {
+        "h2": "Bonjour, je suis",
+        "p1": "Je suis développeur full-stack compétent en frontend et en backend.",
+        "p2": "J'ai travaillé sur une large variété de petits projets pour passer mes certifications et je suis maintenant à la recherche d'opportunités professionnelles qui me permettront de mettre à l'épreuve ce que j'ai appris et d'améliorer mes connaissances."
+    },
+    "services": {
+        "main-title": "Mes Compétences",
+        "description": "Les certifications en ligne que j'ai passé m'ont permises de me familiariser avec une large variété d'outils Javascript, mais je continue également sur mon temps libre à développer mes connaissances avec des projets personnels.",
+        "section1-title": "Développement Web",
+        "section2-title": "Bases de données",
+        "section3-title": "Autres"
+    },
+    "projects": {
+        "title": "Projets de certifications"
+    },
+    "contact": {
+        "title": "Contact",
+        "p1": "Tout type de projet m'intêresse, que ce soit une simple page personnelle ou un projet plus ambitieux nécéssitant un travail en équipe, n'hésitez pas à me contacter à mon adresse Email ou à l'aide du formulaire de cette page.",
+        "input1": "Nom",
+        "input2": "Adresse Email",
+        "input3": "Sujet",
+        "input4": "Message",
+        "submit-btn": "Envoyer"
+    },
+    "footer": {
+        "p1": "Crée par Jérôme Gautier avec SolidJs"
+    }
+}
