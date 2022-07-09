@@ -140,3 +140,9 @@
     border-radius: 5px;
 }
 
+@media (max-width: 400px) {
+    .projects-inner-container .section-title-container .projects-classes div {
+        font-size: 12px;
+        width: 60px;
+    }
+}
